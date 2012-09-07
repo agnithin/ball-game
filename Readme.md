@@ -1,6 +1,7 @@
 # BALL GAME v1.2
-13,August 2005
-======================================================================
+
+*13,August 2005*
+------------------
 
 ## Instructions
 To run the game extract all the files to a directory then run bg2.exe. 
@@ -17,17 +18,14 @@ directory in main() to your tc\\bgi directory.
 
 ## Controls:
 up arrow.............box up
+
 down arrow.........box down
+
 p.....................pause
+
 d............debugging mode
+
 escape.................exit
 
 ## Screenshot
-![screenshot](http://i.imgur.com/CzqjK.jpg)
-
-## Contact
-Any comments or feedback are always welcome.
-
-...nithin
-agnithin@yahoo.com
-======================================================================
+![screenshot](http://i.imgur.com/CzqjK.jpg)S
